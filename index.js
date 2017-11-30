@@ -2,7 +2,8 @@
 const execa = require('execa');
 const isPng = require('is-png');
 const isStream = require('is-stream');
-const pngquant = require('pngquant-bin');
+
+const pngquant = 'pngquant';
 
 module.exports = opts => input => {
 	opts = Object.assign({}, opts);

@@ -2,6 +2,7 @@
 
 > pngquant imagemin plugin
 
+This fork is uses a local version of pngquant.
 
 ## Install
 
