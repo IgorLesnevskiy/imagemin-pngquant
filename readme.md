@@ -2,7 +2,7 @@
 
 > pngquant imagemin plugin
 
-This fork is uses a local version of pngquant.
+This fork is uses a local version of pngquant and yarn (you can use npm instead if you prefer so).
 
 ## Install
 
